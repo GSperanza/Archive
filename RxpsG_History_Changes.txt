@@ -86,6 +86,10 @@ error is associated to these data. In addition Log scale option modified to draw
 
 XPSQuantifyGUI modified adding the possibility to write quantification results to file.
 
+=== December 2020 ===
+
+Corrected bug in RxpsG: in path_names change "/" to "\" only for Windows operating systems
+
 
 
 
