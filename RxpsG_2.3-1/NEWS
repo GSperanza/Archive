@@ -1,0 +1,17 @@
+NEWS file for package RxpsG
+Exploratory and Processing for XPS Spectra
+Giorgio Speranza
+
+##### Version RxpsG versions 2.3-1
+rationalize memory using importfrom to import single pakage-functions instead of the entire package
+Package DESCRIPTION was modified to conform to imports
+RxpsG-package.r added to define all the package   imports   and   importfrom 
+modified RxpsG skeleton to correctly place the external data and the documents
+fixed some incongruences in function description for roxygen
+Added VBFermi.r function
+
+##### Version RxpsG versions 2.3
+the more stable version of the RxpsG package
+A number of bugs fixed with respect to previous versions
+
+
