@@ -1,8 +1,12 @@
 
-=== March 2023 ===
-Still some bugs fixed.
+=== May 2023 ===
+Still some bugs fixed throughout the whole software.
 Added/controlled documentations for all the functions, classes and methods.
-Modified XPSAnalysisGUI and XPSMoveCompGUI to allow them work properly in LINUX.
+Modified function to make the reports of the analyses performed.
+Modified XPSAnalysisGUI.R, XPSMoveCompGUI.R, XPSExtractGUI.R, XPSSprucingGUI.R, 
+XPSVBTopGUI.R, XPSZoomCurGUI.R to read mouse position from graphs using the 
+locator() function. This allow the macro to be compatible with LINUX
+operating systems.
 
 
 === December 2022 ===
